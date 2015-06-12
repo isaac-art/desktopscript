@@ -4,6 +4,10 @@ by Isaac Clarke   http://www.isaacclarke.com
 
 Works best adding app to dock then you can just click to use it, otherwise you may end up with finder window caught in the screenshot.
 
+You can add to iCal/ Calander as a daily event to have it automated each day.
+
+
+
 CLICKNG THE ICON TRIGGERS THIS SERIES OF EVENTS:
 
   Hide Applications
@@ -23,5 +27,4 @@ CLICKNG THE ICON TRIGGERS THIS SERIES OF EVENTS:
   Loop [how many times to loop, default 0]
   
   
-Add to iCal/ Calander as a daily event to have it automated each day.
 
