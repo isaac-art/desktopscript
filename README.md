@@ -5,7 +5,7 @@ Works best adding app to dock then you can just click to use it, otherwise you m
 
 You can add to iCal/ Calander as a daily event to have it automated each day.
 
-
+![screen shot](https://raw.githubusercontent.com/isaac-art/desktopscript/master/Screen%20Shot%202016-12-10%20at%2021.05.19.png)
 
 CLICKING THE ICON TRIGGERS THIS SERIES OF EVENTS:
 
